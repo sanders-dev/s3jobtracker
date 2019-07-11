@@ -1,0 +1,21 @@
+Started GET "/" for ::1 at 2019-07-11 13:07:59 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (8.0ms)
+Completed 200 OK in 939ms (Views: 60.8ms)
+
+
+Started GET "/" for ::1 at 2019-07-11 13:17:16 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (12.0ms)
+Completed 200 OK in 1397ms (Views: 83.9ms)
+
+
+Started GET "/" for ::1 at 2019-07-11 13:17:54 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.1.7/lib/rails/templates/rails/welcome/index.html.erb (3.0ms)
+Completed 200 OK in 88ms (Views: 41.6ms)
+
+
